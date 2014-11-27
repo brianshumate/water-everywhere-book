@@ -1,3 +1,5 @@
+![](https://github.com/brianshumate/water-everywhere-book/blob/master/_assets/cover.jpg)
+
 © 2014, Text by J. Brian Shumate
 
 © 2014, Photographs by J. Brian Shumate
