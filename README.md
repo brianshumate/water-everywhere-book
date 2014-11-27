@@ -1,4 +1,4 @@
-![](https://github.com/brianshumate/water-everywhere-book/blob/master/_assets/cover.jpg)
+![](_assets/cover.jpg)
 
 © 2014, Text by J. Brian Shumate
 
