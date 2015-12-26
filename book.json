@@ -1,8 +1,12 @@
 {
-    "plugins": ["ga"],
+    "plugins": ["ga", "woopra"],
     "pluginsConfig": {
         "ga": {
             "token": "UA-47374715-7"
+        },
+        "woopra": {
+            "domain": "water-everywhere.brianshumate.com",
+            "idle_timeout": 1800000
         }
     }
 }
