@@ -264,7 +264,7 @@ through a quiet parking lot
 suavely swooped and swooshed
 tightly coupled fluid moves
 
-and yes it did fell like a
+and yes it did feel like a
 movie or a dream.
 
 A dream of flying together,
